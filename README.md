@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dimaspratama
-- 👀 I’m interested in FrontEnd Develepoing enthusiast
+- 👀 I’m interested in FrontEnd Developing enthusiast
 - 🌱 I’m currently learning Javascript and HTML CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
