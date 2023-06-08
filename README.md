@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dimaspratama
 - 👀 I’m interested in FrontEnd Development enthusiast
-- 🌱 I’m currently learning Javascript and HTML CSS
+- 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me contact via instagram @dmassssp
 
